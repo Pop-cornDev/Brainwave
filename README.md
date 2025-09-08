@@ -38,16 +38,8 @@ Reusable and well-structured code for easy maintenance
 ---
 
 ## 📸 Preview  
-(Add a screenshot or demo GIF of your project here)  
+live link:-spiffy-spy.surge.sh
 
 ---
 
-## 🚀 Getting Started  
 
-Clone the repository and install dependencies:  
-
-```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-npm install
-npm run dev
