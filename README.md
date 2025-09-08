@@ -45,15 +45,4 @@ Reusable and well-structured code for easy maintenance and scalability.
 
 > **Live Demo**: [spiffy-spy.surge.sh](https://spiffy-spy.surge.sh)
 
-## 🚀 Getting Started
 
-### Prerequisites
-
-- Node.js (v14 or higher)
-- npm or yarn
-
-### Installation
-
-1. Clone the repository
-```bash
-git clone https://github.com/your-username/modern-ui-app.git
